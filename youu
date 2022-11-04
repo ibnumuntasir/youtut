@@ -1,118 +1,56 @@
-127.0.0.1 g.doubleclick.net
-127.0.0.1 adx.g.doubleclick.net
-127.0.0.1 bid.g.doubleclick.net
-127.0.0.1 cm.g.doubleclick.net
-127.0.0.1 ssp-bcc-ads.com
-127.0.0.1 googleads.g.doubleclick.net
-127.0.0.1 googleads4.g.doubleclick.net
-127.0.0.1 suggestqueries.l.google.com
-127.0.0.1 stats.l.doubleclick.net
-127.0.0.1 px.moatads.com
-127.0.0.1 clients.l.google.com
-127.0.0.1 geller-pa.googleapis.com
-127.0.0.1 static.doubleclick.net
-127.0.0.1 api.flat-ads.com
-127.0.0.1 growth-pa.googleapis.com
-127.0.0.1 play-fe.googleapis.com
-127.0.0.1 aax-dtb-cf.amazon-adsystem.com
-127.0.0.1 pubads.g.doubleclick.net
-127.0.0.1 googleadservices.com/pagead
-127.0.0.1 securepubads.g.doubleclick.net
-127.0.0.1 configv2.unityads.unity3d.com
-127.0.0.1 stats.g.doubleclick.net
-127.0.0.1 survey.g.doubleclick.net
-127.0.0.1 g1.doubleclick.net
-127.0.0.1 google-analytics.com
-127.0.0.1 www.gstatic.com
-127.0.0.1 ssl.google-analytics.com
-127.0.0.1 www.google-analytics.com
-127.0.0.1 ybinst0.ec.yimg.com
-127.0.0.1 ads.google.com
-127.0.0.1 googlecm.hit.gemius.pl
-127.0.0.1 4.afs.googleadservices.com
-127.0.0.1 ads.yahoo.com
-127.0.0.1 adservice.google.com
-127.0.0.1 s0-2mdn-net.l.google.com
-127.0.0.1 googleadservices.com
-127.0.0.1 pagead2.googleadservices.com
-127.0.0.1 www.googleadservices.com
-127.0.0.1 static.googleadsserving.cn
-127.0.0.1 googlesyndication.com
-127.0.0.1 ade.googlesyndication.com
-127.0.0.1 pagead.googlesyndication.com
-127.0.0.1 pagead2.googlesyndication.com
-127.0.0.1 tpc.googlesyndication.com
-127.0.0.1 displayads-formats.googleusercontent.com
-127.0.0.1 adservice.google.com.mt
-127.0.0.1 clientmetrics-pa.googleapis.com
-127.0.0.1 crashlyticsreports-pa.googleapis.com
-127.0.0.1 googleanalytics.com
-127.0.0.1 googletagmanager.com
-127.0.0.1 googletagservices.com
-127.0.0.1 mail-ads.google.com
-127.0.0.1 pagead.l.google.com
-127.0.0.1 partnerad.l.google.com
-127.0.0.1 video-stats.video.google.com
-127.0.0.1 wintricksbanner.googlepages.com
-127.0.0.1 www-google-analytics.l.google.com
-127.0.0.1 imageads1.googleadservices.com
-127.0.0.1 imageads2.googleadservices.com
-127.0.0.1 imageads3.googleadservices.com
-127.0.0.1 imageads4.googleadservices.com
-127.0.0.1 imageads5.googleadservices.com
-127.0.0.1 imageads6.googleadservices.com
-127.0.0.1 imageads7.googleadservices.com
-127.0.0.1 imageads8.googleadservices.com
-127.0.0.1 imageads9.googleadservices.com
-127.0.0.1 partner.googleadservices.com
-127.0.0.1 ads.doubleclick.net
-127.0.0.1 csi.gstatic.com
-127.0.0.1 ad.youtube.com
-127.0.0.1 youtube-nocookie.com
-127.0.0.1 www.youtube-nocookie.com
-127.0.0.1 pagead1.googlesyndication.com
-127.0.0.1 adservices.google.com
-127.0.0.1 www.googletagservices.com
-127.0.0.1 www-googletagmanager.l.google.com
-127.0.0.1 pagead.l.doubleclick.net
-127.0.0.1 ad-g.doubleclick.net
-127.0.0.1 ad.mo.doubleclick.net
-127.0.0.1 geomobileservices-pa.googleapis.com
-127.0.0.1 ads.yimg.com
-127.0.0.1 adserver.yahoo.com
-127.0.0.1 analytics.yahoo.com
-127.0.0.1 marketingsolutions.yahoo.com
-127.0.0.1 visit.webhosting.yahoo.com
-127.0.0.1 ientrymail.com
-127.0.0.1 newopenx.detik.com
-127.0.0.1 ads.kompass.com
-127.0.0.1 kompasads.com
-127.0.0.1 ybinst1.ec.yimg.com
-127.0.0.1 ybinst2.ec.yimg.com
-127.0.0.1 ybinst3.ec.yimg.com
-127.0.0.1 ybinst4.ec.yimg.com
-127.0.0.1 ybinst5.ec.yimg.com
-127.0.0.1 ybinst6.ec.yimg.com
-127.0.0.1 ybinst7.ec.yimg.com
-127.0.0.1 ybinst8.ec.yimg.com
-127.0.0.1 ybinst9.ec.yimg.com
-127.0.0.1 analytics-api-samples.googlecode.com
-127.0.0.1 domains.googlesyndication.com
-127.0.0.1 google.tucows.com
-127.0.0.1 googleads2.g.doubleclick.net
-127.0.0.1 pagead-googlehosted.l.google.com
-127.0.0.1 pagead46.l.doubleclick.net
-127.0.0.1 redirector.googlevideo.com
-127.0.0.1 video-ad-stats.googlesyndication.com
-127.0.0.1 www.doubleclickbygoogle.com
-127.0.0.1 www.googletagmanager.com
-127.0.0.1 ads.pubmatic.com
-127.0.0.1 www-alv.google-analytics.com
-127.0.0.1 pubsub.googleapis.com
-127.0.0.1 config.unityads.unity3d.com
-127.0.0.1 publisher-config.unityads.unity3d.com
-127.0.0.1 httpkafka.unityads.unity3d.com
-127.0.0.1 ads.mopub.com
-127.0.0.1 ads-bidder-api.twitter.com
-127.0.0.1 c.amazon-adsystem.com
-127.0.0.1 androidads4-6.adcolony.com
+youtube.com##.ad-container
+youtube.com###player-ads
+youtube.com##.ytp-ad-overlay-container
+youtube.com#@#.overlay-ads
+youtube.com#@#.ddb
+youtube.com###feed-pyv-container
+youtube.com###feedmodule-PRO
+youtube.com###homepage-chrome-side-promo
+youtube.com###merch-shelf
+youtube.com###pla-shelf
+youtube.com###premium-yva
+youtube.com###search-pva
+youtube.com###shelf-pyv-container
+youtube.com###video-masthead
+youtube.com###watch-branded-actions
+youtube.com###watch-buy-urls
+youtube.com###watch-channel-brand-div
+youtube.com##.carousel-offer-url-container
+youtube.com##.promoted-videos
+youtube.com##.searchView.list-view
+youtube.com##.watch-extra-info-column
+youtube.com##.watch-extra-info-right
+youtube.com##.ytd-merch-shelf-renderer
+youtube.com##.ytd-search-pyv-renderer
+youtube.com##YTM-PROMOTED-VIDEO-RENDERER
+youtube.com##.list-view[style="margin: 7px 0pt;"]
+youtube.com##.searchView.list-view
+youtube.com##a[href^="http://www.youtube.com/cthru?"]
+youtube.com##.ytp-ad-progress
+youtube.com##.ytp-ad-progress-list
+youtube.com###ad-image\:22
+youtube.com##.ytd-action-companion-ad-renderer
+youtube.com##.ytp-ad-text-overlay:nth-of-type(1)
+@@||youtube.com/yt/advertise/medias/images/$image
+@@||youtube.com/yt/css/*-advertise.css
+@@||youtube.com/yt/js/www-advertise.min.js$domain=youtube.com
+@@||youtube.com^*_adsense_$xmlhttprequest
+@@||youtube.com/ads/preferences/$popup
+@@||ytimg.com/yts/img/*/display-ads$image,domain=youtube.com
+@@||ytimg.com/yts/img/channels/*_banner-*.jpg$domain=youtube.com
+@@||ytimg.com/yts/img/channels/*_banner-*.png$domain=youtube.com
+@@||ytimg.com^*/channels4_banner.jpg?$domain=youtube.com
+@@||ytimg.com^*/channels4_banner_hd.jpg?$domain=youtube.com
+@@||s.ytimg.com/yts/swfbin/player-*/watch_as3.swf$object,domain=youtube.com
+||youtube.com/get_midroll_
+||youtube.com/pagead/
+||doubleclick.net^$third-party,domain=youtube-nocookie.com|youtube.com
+||phobos.apple.com^$image,domain=youtube.com
+||topspin.net/secure/media/$image,domain=youtube.com
+||espn.vad.go.com^$domain=youtube.com
+||google.com/jsapi?autoload=*%22ads%22$script,domain=youtube.com
+||ytimg.com^*/new_watch_background.jpg?$domain=youtube.com
+||ytimg.com^*/new_watch_background_*.jpg?$domain=youtube.com
+||ytimg.com^*_banner$domain=youtube.com
+||2mdn.net^$object-subrequest,third-party,domain=youtube.com
+_reklama_$domain=~youtube.com
